@@ -1,0 +1,4 @@
+text.craftquest.task.craft=To Craft %s:
+text.craftquest.task.smelt=To Smelt %s:
+text.craftquest.task.obtain=Obtain %s:
+text.craftquest.task.requirement= - [%s] Have %s
